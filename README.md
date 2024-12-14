@@ -2,13 +2,13 @@ Project Title
 # Alpha_advisor_weather_pattern_analysis
 
 # Group Member
-Palak Dahima - KU2407U508 - (data collection, exploratory data analysis and preprocessing)
+Palak Dahima - KU2407U508 - (submitting code in github, exploratory data analysis and preprocessing)
 
 Jhanvi Jadav - KU2407U509 - (Visualization and predictive modeling)
 
-Dhyani Shiroya -
+Dhyani Shiroya - KU2407U277- (help in making code)
 
-Dhruvanshi Patel - 
+Dhruvanshi Patel - KU2407U274 - (data collection)
 
 # Project description
 This project aims on weather pattern analyzes with temperature, humidity, and rainfall trends across multiple regions
